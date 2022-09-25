@@ -1,0 +1,36 @@
+1. ¿Que nodo es la raiz?
+- el nodo A
+2.¿Cuantos caminos diferentes de longitud 3 hay?
+- 2
+3.¿Es un camino la sucesion de nodos HGFBACI?
+- Si
+4.¿Que nodos son los ancestros de K?
+- j, c, a
+5.¿Que nodos son los ancestros propios de N?
+- E
+6.¿Que nodos son los descendientes propios de M?
+- Ninguno ( o NULL y NULL)
+7.¿Que nodos son las hojas?
+- H, L, M, P, Q
+8.¿Cual es la altura del nodo C?
+- 2
+9.¿Cual es la altura del arbol?
+- 5
+10.¿Cual es la profundidad del nodo C?
+- 2
+11.¿Cal es el hermano a la derecha de D?
+-E
+12.¿es I hermano a la derecha de F?
+-No
+13.¿Esta la F a la izquierda de J?
+- No
+14.¿Esta L a la derecha de J?
+-No
+15.¿Que nodos estan a la izquierda y derecha de J?
+-Ninguno
+16.¿Cuantos hijos tiene A?
+-5
+17.Listar los nodos del arbol en preorden, postorden e inorden
+- preorden: ABFGHCIJKLMDENPQ
+  inorden: GHFBICLKMJADPNQE
+  postorden: HGFBILMKJCDPQNEA
